@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "62aad421eb913d69",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfd568caf7efad33",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AB testing.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7315c0af1ce87ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "546727ea852e9093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b62519102ed06a6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "acda31f12e4a7a0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "710851b6af59f2c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e35e225feed31ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1345a95819a903f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "AB testing.md",
+    "Untitled.md",
+    "Test both variations simultaneously.md",
+    "Determine your sample size.md",
+    "Creating controll and test.md"
+  ]
+}

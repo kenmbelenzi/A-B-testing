@@ -1,0 +1,1 @@
+More than one variable can be tested but it would be necessary to test one at a time, But to evaluate how effective a change is, you’ll want to isolate one “independent variable” and measure its performance — otherwise, you can’t be sure which one was responsible for changes in performance.

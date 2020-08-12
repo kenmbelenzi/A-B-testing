@@ -1,0 +1,1 @@
+If you’re A/B testing an email, you’ll probably want to send an A/B test to a smaller portion of your list to get statistically significant results. Eventually, you’ll pick a winner and send the winning variation on to the rest of the list.

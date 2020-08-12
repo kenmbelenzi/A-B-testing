@@ -1,0 +1,1 @@
+There may be many metrics for everyone test, but it would be important to choose one primary metric to focus on — before we run this test, and based on that is it necessary to frame a hypothesis statement to test our predictions and results.

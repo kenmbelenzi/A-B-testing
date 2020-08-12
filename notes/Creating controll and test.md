@@ -1,0 +1,1 @@
+As we have information regarding independent, dependant and desired variable we will use this information to set up control and test pages.
